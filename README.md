@@ -2,7 +2,7 @@
 
 Here are the link to my all Tableau's dashboards
 
-1) # Netflix Dashboard- https://public.tableau.com/app/profile/satya.shah2256/viz/Nteflix_17259208119770/Dashboard1
+**1)  Netflix Dashboard- https://public.tableau.com/app/profile/satya.shah2256/viz/Nteflix_17259208119770/Dashboard1**
 ![Dashboard 1](https://github.com/user-attachments/assets/4d5ac392-f574-45e8-a97f-5f5c53e2bab6)
 
 
