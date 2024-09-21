@@ -16,4 +16,6 @@
 **4) IBM HR ANALYTICS- https://public.tableau.com/views/IBM_17263391172140/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**
 ![IBM_ANALYSIS](https://github.com/user-attachments/assets/d255fccd-3bf3-4c1f-a8d8-b8a0e50a95fb)
 
-   
+**5) AMAZON SALES- https://public.tableau.com/views/AmazonSales_17268940706320/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**
+![Amazon Sales](https://github.com/user-attachments/assets/67c12eed-e246-4a7c-b86a-d214c0cda6dd)
+
