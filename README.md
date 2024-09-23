@@ -19,3 +19,7 @@
 **5) AMAZON SALES- https://public.tableau.com/views/AmazonSales_17268940706320/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**
 ![Amazon Sales](https://github.com/user-attachments/assets/67c12eed-e246-4a7c-b86a-d214c0cda6dd)
 
+**6) GOOD READS- https://public.tableau.com/views/Goodreads_17270754674340/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**
+![GOOD READS](https://github.com/user-attachments/assets/fc4a097a-0ccb-4e92-85d5-f555cfdebf34)
+
+
