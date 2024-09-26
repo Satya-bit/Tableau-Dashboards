@@ -22,4 +22,6 @@
 **6) GOOD READS- https://public.tableau.com/views/Goodreads_17270754674340/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**
 ![GOOD READS](https://github.com/user-attachments/assets/fc4a097a-0ccb-4e92-85d5-f555cfdebf34)
 
+**7) AIRBNB- https://public.tableau.com/views/Airbnb_17273274304510/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**
+![Airbnb](https://github.com/user-attachments/assets/9ae86de6-0556-434e-8b60-512e2de96108)
 
